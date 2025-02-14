@@ -24,6 +24,15 @@ local savemanager = "Insert your mod's save manager variable here"
 >Do NOT copy the quotation marks!
 (This lib only works with Catinsurance's SaveManager because I fucking suck at programming. I'm sorry.)
 
+If you followed the steps correctly, the variables should now look like this:
+
+```lua
+local ModReference = GLOBAL_VARIABLE
+local savemanager = GLOBAL_VARIABLE.SaveManager
+```
+
+Congratulations! You just successfully installed this embarrassing, pitiful excuse of a library within your mod!
+
 If you want to spawn a mimicking minisaac, do the following:
 
 ```lua
