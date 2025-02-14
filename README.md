@@ -24,7 +24,7 @@ local savemanager = "Insert your mod's save manager variable here"
 >Do NOT copy the quotation marks!
 (This lib only works with Catinsurance's SaveManager because I fucking suck at programming. I'm sorry.)
 
---If you want to spawn a mimicking minisaac, do the following:
+If you want to spawn a mimicking minisaac, do the following:
 
 ```lua
 GLOBAL_VARIABLE.MimicShitNow:AddIncubusAtHome(EntityPlayer, MinisaacPosition)
