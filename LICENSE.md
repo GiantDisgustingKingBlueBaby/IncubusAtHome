@@ -1,27 +1,29 @@
-# 좆같이 굴지 마세요 공중 라이선스 (DBAD 공중 라이선스)
+# DON'T BE A DICK PUBLIC LICENSE
 
-[원본](https://github.com/philsturgeon/dbad)
+[Source](https://github.com/philsturgeon/dbad)
 
-> 버전 1.2, 2021년 2월
+> Version 1.2, February 2021
 
 > Copyright (C) 2025 Giant Disgusting King Blue Baby
  
- 누구든지 이 라이선스 문서의 원본 혹은 수정본을 복사 및 배포할 수 있습니다.
+ Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
 
-> 좆같이 굴지 마세요 공중 라이선스
-> 복사, 배포 및 수정에 관한 규정과 조건
+> DON'T BE A DICK PUBLIC LICENSE
+> TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
- 1. 당신은 원본 저작물을 가지고 원하는 모든 것을 할 수 있습니다. 좆같이 굴지만 마세요.
+ 1. Do whatever you like with the original work, just don't be a dick.
 
-     좆같이 구는 것의 예시는 다음과 같습니다만, 이에 국한되지는 않습니다:
+     Being a dick includes - but is not limited to - the following instances:
 
-	 가. 원본을 그냥 복사하거나 이름만 바꾸는 노골적인 저작권 침해
-     나. 아무런 작업도 하지 않고 수정되지 않은 원본을 판매하는 것은 정말 좆같은 짓입니다.
-     다. 원본에 유해 콘텐츠를 포함 시키는 행위 또한 좆같은 짓이죠.
+	 1a. Outright copyright infringement - Don't just copy the original work/works and change the name.  
+	 1b. Selling the unmodified original with no work done what-so-ever, that's REALLY being a dick.  
+	 1c. Modifying the original work to contain hidden harmful content. That would make you a PROPER dick.  
 
- 2. 원본 저작물 혹은 원본으로부터 파생된 저작물을 사용해 부자가 된 경우, 사랑을 나눠주세요. 좆같은 사람은 원본을 사용해 돈을 벌고나서 원작자에게는 맥주 한 잔도 사지 않을 것입니다.
+ 2. If you become rich through modifications, related works/services, or supporting the original work,
+ share the love. Only a dick would make loads off this work and not buy the original work's 
+ creator(s) a pint.
  
- 3. 원본 저작물은 보증 없이 제공됩니다. 타인의 저작물을 사용하며, 잘못되었을 때 개소리를 하는 것은 당신이 정말 좆같은 사람이라는 것밖에 되지 않습니다. 문제를 직접 해결하세요. 현명한 사람은 수정본을 제출하거나 [버그 리포트](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)를 제출합니다.
+ 3. Code is provided with no warranty. Using somebody else's code and bitching when it goes wrong makes 
+ you a DONKEY dick. Fix the problem yourself. A non-dick would submit the fix back or submit a [bug report](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html).
 
- 4. 만약 당신이 원본 저작물을 사용하고, 이것을 자신의 저작물이라고 부르는 것은 당신이 개좆같은 사람이라는 것입니다. [리포지토리 인용 방법](https://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository)을 참고하세요. 대신에, 당신이 참고 및 사용한 부분의 위치에 대한 설명을 제공하는 것만이라도 해주세요.
- 
+ 4. If you use code, calling it your own would make you a ROYAL dick. [How to cite a repo](https://academia.stackexchange.com/questions/14010/how-do-you-cite-a-github-repository). Alternatively, even just a comment giving attribution to where you found the code would be OK.
