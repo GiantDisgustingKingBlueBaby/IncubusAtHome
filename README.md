@@ -9,7 +9,7 @@ Do this in the main.lua:
 GLOBAL_VARIABLE = RegisterMod("The Coolest Motherfucking Mod Ever", 1)
 GLOBAL_VARIABLE.SaveManager = include("path.to.savemanager")
 --May look different depending on how you installed the save manager.
-GLOBAL_VARIABLE.MimicShitNow = include("path.to.minisaac.lib")
+GLOBAL_VARIABLE.MimicShitNow = include("path.to.incubus_at_home")
 ```
 Then return to the library's lua file and do the following to these variables:
 
