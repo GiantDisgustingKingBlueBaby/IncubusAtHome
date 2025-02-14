@@ -1,6 +1,6 @@
 # Incubus at home:
 "Incubus At Home" is a stupid, stinky, and janky library I coded and farted out of my butt in just a few days. It was made out of pure boredom.
-This library is an installable version of the Dynamic Minisaacs Forever! mod.
+This library is an installable version of the Dynamic Minisaacs Forever! mod, inspired by KittenChilly's Dynamic Minisaac Tears mod, and programmed by me.
 
 ## HOW THE FUCK DO I USE THIS THING???
 
