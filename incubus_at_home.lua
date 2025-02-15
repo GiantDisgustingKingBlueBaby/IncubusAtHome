@@ -3,8 +3,8 @@ local DynamicMinisaacLib = {}
 --This Library is a librarified version of the Dynamic Minisaac ModReference.
 --Requires Catinsurance's Save Manager to work.
 
-local ModReference = edithMod
-local savemanager = edithMod.SaveManager
+local ModReference = YourModReference
+local savemanager = YourModReference.SaveManager
 
 --Do this in the main.lua:
 --GLOBAL_VARIABLE = RegisterMod("The Coolest Motherfucking Mod Ever", 1)
